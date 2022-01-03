@@ -57,10 +57,9 @@
 ESP8266WebServer server(80);
 
 // Replace with your network credentials (STATION)
-const char* ssid = "MOVISTAR_A2A0";
-const char* password = "BE54316C434112149380";
-//const char* ssid = "MOVISTAR_9A76_INV";
-//const char* password = "Root2016@";
+const char* ssid = "XXXXXXXXXX";
+const char* password = "XXXXXXXXXXXX";
+
 
 const char* PARAM_INPUT_1 = "Status";
 const char* PARAM_INPUT_2 = "humedity";
