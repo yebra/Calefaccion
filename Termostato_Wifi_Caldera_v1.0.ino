@@ -57,8 +57,8 @@
 // Replace with your network credentials (STATION)
 //const char* ssid = "MOVISTAR_9A76_INV";
 //const char* password = "Root2016@";
-const char* ssid = "MOVISTAR_A2A0";
-const char* password = "BE54316C434112149380";
+const char* ssid = "XXXXXXX"; //Your SSID
+const char* password = "XXXXXXX";//Your Password
 
 #include <DNSServer.h>
 
@@ -104,7 +104,7 @@ const char* password = "BE54316C434112149380";
 #define OLED_RESET -1 // Reset pin # (or -1 if sharing Arduino reset pin)
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "p7TpmPM4Zpp3KKPuZ2xWQfYUJPvCMLR5";
+char auth[] = "XXXXXXXXXXXXXXXXXXX";
 
 // Initialize the OLED display using Wire library
 Adafruit_SSD1306  display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);  //D2=SDK  D1=SCK  As per labeling on NodeMCU
