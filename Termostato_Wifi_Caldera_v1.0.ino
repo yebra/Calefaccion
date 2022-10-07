@@ -56,7 +56,7 @@
 
 // Replace with your network credentials (STATION)
 //const char* ssid = "MOVISTAR_9A76_INV";
-//const char* password = "Root2016@";
+//const char* password = "XXXXXXXX";
 const char* ssid = "XXXXXXX"; //Your SSID
 const char* password = "XXXXXXX";//Your Password
 
